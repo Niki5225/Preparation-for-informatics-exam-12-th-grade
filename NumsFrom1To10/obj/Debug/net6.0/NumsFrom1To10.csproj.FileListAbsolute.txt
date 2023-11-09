@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\NumsFrom1To10\bin\Debug\net6.0\NumsFrom1To10.exe
+C:\Users\ASUS\source\repos\NumsFrom1To10\bin\Debug\net6.0\NumsFrom1To10.deps.json
+C:\Users\ASUS\source\repos\NumsFrom1To10\bin\Debug\net6.0\NumsFrom1To10.runtimeconfig.json
+C:\Users\ASUS\source\repos\NumsFrom1To10\bin\Debug\net6.0\NumsFrom1To10.dll
+C:\Users\ASUS\source\repos\NumsFrom1To10\bin\Debug\net6.0\NumsFrom1To10.pdb
+C:\Users\ASUS\source\repos\NumsFrom1To10\obj\Debug\net6.0\NumsFrom1To10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\NumsFrom1To10\obj\Debug\net6.0\NumsFrom1To10.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\NumsFrom1To10\obj\Debug\net6.0\NumsFrom1To10.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\NumsFrom1To10\obj\Debug\net6.0\NumsFrom1To10.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\NumsFrom1To10\obj\Debug\net6.0\NumsFrom1To10.dll
+C:\Users\ASUS\source\repos\NumsFrom1To10\obj\Debug\net6.0\refint\NumsFrom1To10.dll
+C:\Users\ASUS\source\repos\NumsFrom1To10\obj\Debug\net6.0\NumsFrom1To10.pdb
+C:\Users\ASUS\source\repos\NumsFrom1To10\obj\Debug\net6.0\NumsFrom1To10.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\NumsFrom1To10\obj\Debug\net6.0\ref\NumsFrom1To10.dll

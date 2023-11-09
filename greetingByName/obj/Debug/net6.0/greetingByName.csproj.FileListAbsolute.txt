@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\greetingByName\bin\Debug\net6.0\greetingByName.exe
+C:\Users\ASUS\source\repos\greetingByName\bin\Debug\net6.0\greetingByName.deps.json
+C:\Users\ASUS\source\repos\greetingByName\bin\Debug\net6.0\greetingByName.runtimeconfig.json
+C:\Users\ASUS\source\repos\greetingByName\bin\Debug\net6.0\greetingByName.dll
+C:\Users\ASUS\source\repos\greetingByName\bin\Debug\net6.0\greetingByName.pdb
+C:\Users\ASUS\source\repos\greetingByName\obj\Debug\net6.0\greetingByName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\greetingByName\obj\Debug\net6.0\greetingByName.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\greetingByName\obj\Debug\net6.0\greetingByName.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\greetingByName\obj\Debug\net6.0\greetingByName.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\greetingByName\obj\Debug\net6.0\greetingByName.dll
+C:\Users\ASUS\source\repos\greetingByName\obj\Debug\net6.0\refint\greetingByName.dll
+C:\Users\ASUS\source\repos\greetingByName\obj\Debug\net6.0\greetingByName.pdb
+C:\Users\ASUS\source\repos\greetingByName\obj\Debug\net6.0\greetingByName.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\greetingByName\obj\Debug\net6.0\ref\greetingByName.dll

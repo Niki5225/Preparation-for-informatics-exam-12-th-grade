@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\basketballEquipment\bin\Debug\net6.0\basketballEquipment.exe
+C:\Users\ASUS\source\repos\basketballEquipment\bin\Debug\net6.0\basketballEquipment.deps.json
+C:\Users\ASUS\source\repos\basketballEquipment\bin\Debug\net6.0\basketballEquipment.runtimeconfig.json
+C:\Users\ASUS\source\repos\basketballEquipment\bin\Debug\net6.0\basketballEquipment.dll
+C:\Users\ASUS\source\repos\basketballEquipment\bin\Debug\net6.0\basketballEquipment.pdb
+C:\Users\ASUS\source\repos\basketballEquipment\obj\Debug\net6.0\basketballEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\basketballEquipment\obj\Debug\net6.0\basketballEquipment.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\basketballEquipment\obj\Debug\net6.0\basketballEquipment.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\basketballEquipment\obj\Debug\net6.0\basketballEquipment.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\basketballEquipment\obj\Debug\net6.0\basketballEquipment.dll
+C:\Users\ASUS\source\repos\basketballEquipment\obj\Debug\net6.0\refint\basketballEquipment.dll
+C:\Users\ASUS\source\repos\basketballEquipment\obj\Debug\net6.0\basketballEquipment.pdb
+C:\Users\ASUS\source\repos\basketballEquipment\obj\Debug\net6.0\basketballEquipment.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\basketballEquipment\obj\Debug\net6.0\ref\basketballEquipment.dll

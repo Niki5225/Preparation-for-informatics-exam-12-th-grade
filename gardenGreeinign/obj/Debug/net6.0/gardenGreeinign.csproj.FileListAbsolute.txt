@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\gardenGreeinign\bin\Debug\net6.0\gardenGreeinign.exe
+C:\Users\ASUS\source\repos\gardenGreeinign\bin\Debug\net6.0\gardenGreeinign.deps.json
+C:\Users\ASUS\source\repos\gardenGreeinign\bin\Debug\net6.0\gardenGreeinign.runtimeconfig.json
+C:\Users\ASUS\source\repos\gardenGreeinign\bin\Debug\net6.0\gardenGreeinign.dll
+C:\Users\ASUS\source\repos\gardenGreeinign\bin\Debug\net6.0\gardenGreeinign.pdb
+C:\Users\ASUS\source\repos\gardenGreeinign\obj\Debug\net6.0\gardenGreeinign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\gardenGreeinign\obj\Debug\net6.0\gardenGreeinign.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\gardenGreeinign\obj\Debug\net6.0\gardenGreeinign.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\gardenGreeinign\obj\Debug\net6.0\gardenGreeinign.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\gardenGreeinign\obj\Debug\net6.0\gardenGreeinign.dll
+C:\Users\ASUS\source\repos\gardenGreeinign\obj\Debug\net6.0\refint\gardenGreeinign.dll
+C:\Users\ASUS\source\repos\gardenGreeinign\obj\Debug\net6.0\gardenGreeinign.pdb
+C:\Users\ASUS\source\repos\gardenGreeinign\obj\Debug\net6.0\gardenGreeinign.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\gardenGreeinign\obj\Debug\net6.0\ref\gardenGreeinign.dll

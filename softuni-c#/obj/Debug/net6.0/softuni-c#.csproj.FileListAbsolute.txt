@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\softuni-c#\bin\Debug\net6.0\softuni-c#.exe
+C:\Users\ASUS\source\repos\softuni-c#\bin\Debug\net6.0\softuni-c#.deps.json
+C:\Users\ASUS\source\repos\softuni-c#\bin\Debug\net6.0\softuni-c#.runtimeconfig.json
+C:\Users\ASUS\source\repos\softuni-c#\bin\Debug\net6.0\softuni-c#.dll
+C:\Users\ASUS\source\repos\softuni-c#\bin\Debug\net6.0\softuni-c#.pdb
+C:\Users\ASUS\source\repos\softuni-c#\obj\Debug\net6.0\softuni-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\softuni-c#\obj\Debug\net6.0\softuni-c#.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\softuni-c#\obj\Debug\net6.0\softuni-c#.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\softuni-c#\obj\Debug\net6.0\softuni-c#.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\softuni-c#\obj\Debug\net6.0\softuni-c#.dll
+C:\Users\ASUS\source\repos\softuni-c#\obj\Debug\net6.0\refint\softuni-c#.dll
+C:\Users\ASUS\source\repos\softuni-c#\obj\Debug\net6.0\softuni-c#.pdb
+C:\Users\ASUS\source\repos\softuni-c#\obj\Debug\net6.0\softuni-c#.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\softuni-c#\obj\Debug\net6.0\ref\softuni-c#.dll
