@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\leftAndRightSUm\bin\Debug\net6.0\leftAndRightSUm.exe
+C:\Users\ASUS\source\repos\leftAndRightSUm\bin\Debug\net6.0\leftAndRightSUm.deps.json
+C:\Users\ASUS\source\repos\leftAndRightSUm\bin\Debug\net6.0\leftAndRightSUm.runtimeconfig.json
+C:\Users\ASUS\source\repos\leftAndRightSUm\bin\Debug\net6.0\leftAndRightSUm.dll
+C:\Users\ASUS\source\repos\leftAndRightSUm\bin\Debug\net6.0\leftAndRightSUm.pdb
+C:\Users\ASUS\source\repos\leftAndRightSUm\obj\Debug\net6.0\leftAndRightSUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\leftAndRightSUm\obj\Debug\net6.0\leftAndRightSUm.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\leftAndRightSUm\obj\Debug\net6.0\leftAndRightSUm.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\leftAndRightSUm\obj\Debug\net6.0\leftAndRightSUm.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\leftAndRightSUm\obj\Debug\net6.0\leftAndRightSUm.dll
+C:\Users\ASUS\source\repos\leftAndRightSUm\obj\Debug\net6.0\refint\leftAndRightSUm.dll
+C:\Users\ASUS\source\repos\leftAndRightSUm\obj\Debug\net6.0\leftAndRightSUm.pdb
+C:\Users\ASUS\source\repos\leftAndRightSUm\obj\Debug\net6.0\leftAndRightSUm.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\leftAndRightSUm\obj\Debug\net6.0\ref\leftAndRightSUm.dll

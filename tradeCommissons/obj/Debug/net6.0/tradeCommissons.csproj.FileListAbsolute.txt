@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\tradeCommissons\bin\Debug\net6.0\tradeCommissons.exe
+C:\Users\ASUS\source\repos\tradeCommissons\bin\Debug\net6.0\tradeCommissons.deps.json
+C:\Users\ASUS\source\repos\tradeCommissons\bin\Debug\net6.0\tradeCommissons.runtimeconfig.json
+C:\Users\ASUS\source\repos\tradeCommissons\bin\Debug\net6.0\tradeCommissons.dll
+C:\Users\ASUS\source\repos\tradeCommissons\bin\Debug\net6.0\tradeCommissons.pdb
+C:\Users\ASUS\source\repos\tradeCommissons\obj\Debug\net6.0\tradeCommissons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\tradeCommissons\obj\Debug\net6.0\tradeCommissons.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\tradeCommissons\obj\Debug\net6.0\tradeCommissons.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\tradeCommissons\obj\Debug\net6.0\tradeCommissons.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\tradeCommissons\obj\Debug\net6.0\tradeCommissons.dll
+C:\Users\ASUS\source\repos\tradeCommissons\obj\Debug\net6.0\refint\tradeCommissons.dll
+C:\Users\ASUS\source\repos\tradeCommissons\obj\Debug\net6.0\tradeCommissons.pdb
+C:\Users\ASUS\source\repos\tradeCommissons\obj\Debug\net6.0\tradeCommissons.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\tradeCommissons\obj\Debug\net6.0\ref\tradeCommissons.dll

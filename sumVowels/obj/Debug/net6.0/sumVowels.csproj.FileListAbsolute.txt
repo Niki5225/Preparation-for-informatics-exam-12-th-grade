@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\sumVowels\bin\Debug\net6.0\sumVowels.exe
+C:\Users\ASUS\source\repos\sumVowels\bin\Debug\net6.0\sumVowels.deps.json
+C:\Users\ASUS\source\repos\sumVowels\bin\Debug\net6.0\sumVowels.runtimeconfig.json
+C:\Users\ASUS\source\repos\sumVowels\bin\Debug\net6.0\sumVowels.dll
+C:\Users\ASUS\source\repos\sumVowels\bin\Debug\net6.0\sumVowels.pdb
+C:\Users\ASUS\source\repos\sumVowels\obj\Debug\net6.0\sumVowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\sumVowels\obj\Debug\net6.0\sumVowels.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\sumVowels\obj\Debug\net6.0\sumVowels.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\sumVowels\obj\Debug\net6.0\sumVowels.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\sumVowels\obj\Debug\net6.0\sumVowels.dll
+C:\Users\ASUS\source\repos\sumVowels\obj\Debug\net6.0\refint\sumVowels.dll
+C:\Users\ASUS\source\repos\sumVowels\obj\Debug\net6.0\sumVowels.pdb
+C:\Users\ASUS\source\repos\sumVowels\obj\Debug\net6.0\sumVowels.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\sumVowels\obj\Debug\net6.0\ref\sumVowels.dll
