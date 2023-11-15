@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\sumNumbers\bin\Debug\net6.0\sumNumbers.exe
+C:\Users\ASUS\source\repos\sumNumbers\bin\Debug\net6.0\sumNumbers.deps.json
+C:\Users\ASUS\source\repos\sumNumbers\bin\Debug\net6.0\sumNumbers.runtimeconfig.json
+C:\Users\ASUS\source\repos\sumNumbers\bin\Debug\net6.0\sumNumbers.dll
+C:\Users\ASUS\source\repos\sumNumbers\bin\Debug\net6.0\sumNumbers.pdb
+C:\Users\ASUS\source\repos\sumNumbers\obj\Debug\net6.0\sumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\sumNumbers\obj\Debug\net6.0\sumNumbers.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\sumNumbers\obj\Debug\net6.0\sumNumbers.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\sumNumbers\obj\Debug\net6.0\sumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\sumNumbers\obj\Debug\net6.0\sumNumbers.dll
+C:\Users\ASUS\source\repos\sumNumbers\obj\Debug\net6.0\refint\sumNumbers.dll
+C:\Users\ASUS\source\repos\sumNumbers\obj\Debug\net6.0\sumNumbers.pdb
+C:\Users\ASUS\source\repos\sumNumbers\obj\Debug\net6.0\sumNumbers.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\sumNumbers\obj\Debug\net6.0\ref\sumNumbers.dll
