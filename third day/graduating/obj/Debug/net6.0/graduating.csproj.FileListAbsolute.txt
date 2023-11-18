@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\`shopping\graduating\bin\Debug\net6.0\graduating.exe
+C:\Users\ASUS\source\repos\`shopping\graduating\bin\Debug\net6.0\graduating.deps.json
+C:\Users\ASUS\source\repos\`shopping\graduating\bin\Debug\net6.0\graduating.runtimeconfig.json
+C:\Users\ASUS\source\repos\`shopping\graduating\bin\Debug\net6.0\graduating.dll
+C:\Users\ASUS\source\repos\`shopping\graduating\bin\Debug\net6.0\graduating.pdb
+C:\Users\ASUS\source\repos\`shopping\graduating\obj\Debug\net6.0\graduating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\`shopping\graduating\obj\Debug\net6.0\graduating.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\`shopping\graduating\obj\Debug\net6.0\graduating.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\`shopping\graduating\obj\Debug\net6.0\graduating.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\`shopping\graduating\obj\Debug\net6.0\graduating.dll
+C:\Users\ASUS\source\repos\`shopping\graduating\obj\Debug\net6.0\refint\graduating.dll
+C:\Users\ASUS\source\repos\`shopping\graduating\obj\Debug\net6.0\graduating.pdb
+C:\Users\ASUS\source\repos\`shopping\graduating\obj\Debug\net6.0\graduating.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\`shopping\graduating\obj\Debug\net6.0\ref\graduating.dll

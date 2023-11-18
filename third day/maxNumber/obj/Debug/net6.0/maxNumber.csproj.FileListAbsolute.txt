@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\`shopping\maxNumber\bin\Debug\net6.0\maxNumber.exe
+C:\Users\ASUS\source\repos\`shopping\maxNumber\bin\Debug\net6.0\maxNumber.deps.json
+C:\Users\ASUS\source\repos\`shopping\maxNumber\bin\Debug\net6.0\maxNumber.runtimeconfig.json
+C:\Users\ASUS\source\repos\`shopping\maxNumber\bin\Debug\net6.0\maxNumber.dll
+C:\Users\ASUS\source\repos\`shopping\maxNumber\bin\Debug\net6.0\maxNumber.pdb
+C:\Users\ASUS\source\repos\`shopping\maxNumber\obj\Debug\net6.0\maxNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\`shopping\maxNumber\obj\Debug\net6.0\maxNumber.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\`shopping\maxNumber\obj\Debug\net6.0\maxNumber.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\`shopping\maxNumber\obj\Debug\net6.0\maxNumber.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\`shopping\maxNumber\obj\Debug\net6.0\maxNumber.dll
+C:\Users\ASUS\source\repos\`shopping\maxNumber\obj\Debug\net6.0\refint\maxNumber.dll
+C:\Users\ASUS\source\repos\`shopping\maxNumber\obj\Debug\net6.0\maxNumber.pdb
+C:\Users\ASUS\source\repos\`shopping\maxNumber\obj\Debug\net6.0\maxNumber.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\`shopping\maxNumber\obj\Debug\net6.0\ref\maxNumber.dll
