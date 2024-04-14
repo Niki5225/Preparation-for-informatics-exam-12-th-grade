@@ -1,30 +1,30 @@
-﻿namespace Task
+﻿using System.Linq;
+
+namespace TopIntegers
 {
-    class Task
+    public class Task
     {
         static void Main()
         {
             int[] arr = Console.ReadLine().Split().Select(int.Parse).ToArray();
-            List<int> topIntegers = new List<int>();
+            int[] topIntegers = { };
 
-            for(int i = 0; i < arr.Length; i++)
+            for (int i = 0; i < arr.Length; i++)
             {
-                int currentNum = arr[i];
-                bool isGreater = true;
-                for(int j = i + 1; j < arr.Length; j++)
+                int number = arr[i];
+                bool isBiggerThanAllNums = true;
+                for (int j = i + 1; j < arr.Length; j++)
                 {
-                    if (currentNum < arr[j]) 
+                    if (number <= arr[j])
                     {
-                        isGreater = false;
-                        break;
+                        isBiggerThanAllNums = false;
                     }
                 }
-                if (isGreater)
+                if (isBiggerThanAllNums)
                 {
-                    topIntegers.Add(currentNum);
+                    Console.Write(number + " ");
                 }
             }
-            Console.WriteLine(string.Join(" ", topIntegers));
         }
     }
 }
