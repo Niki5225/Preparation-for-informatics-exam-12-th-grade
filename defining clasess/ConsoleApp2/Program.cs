@@ -1,0 +1,7 @@
+﻿namespace DefiningClasses
+{
+    class StartUp
+    {
+
+    }
+}
